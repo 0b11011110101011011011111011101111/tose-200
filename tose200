@@ -1,20 +1,16 @@
 X:1
 T:Rob the Piper
-K:Ionian (#4)
-I:R-8
 M:3/4
 R:Waltz
 C:Trad. 
 S: Davidson's Musical Miracles 1859
 L:1/8
 AB AB AG  | FE FG FE | DE DE FG | AB AB A2 | AB AB AG | FE FG FE | DE DE FE  | D6      :|| 
-FE DE FD  | E2 A2 A2 | AG FG AF | G2 B2 B2 | Bc dc BA | G2 E2 E2 | A^G AB cA | d2 d2 d2  | 
+FE DE FD  | E2 A2 A2 | AG FG AF | G2 B2 B2 | Bc dc BA | G2 E2 E2 | A^G AB cA | d2 d2 d2 | 
 AB AB A=G | FE FG FE | DE DE FG | AB AB A2 | AB AB AG | FE FG FE | DE DE FE  | D6       ||
 
 X:2
 T:The Tune of Morfydd's Pipes
-K:Aeolian
-I:L7-7
 M:2/4
 R:Slow Air
 C:Trad. arr. John Tose
@@ -25,8 +21,6 @@ G/2A/2 | B>c BA | GE E>F | G/2A/2B AG | GF DE/2F/2 | G/2A/2B AG | GF DE/ 2F/2 | 
 
 X:3
 T:Hobed i Langoed
-K:Ionian
-I:R-8
 M:3/4
 R:Waltz
 C:Trad. 
@@ -38,8 +32,6 @@ D/2E/2 F/2G/2 A | A F D | A F D | D2            E | D2  E | F E D :|
 
 X:4
 T:Mari Lwyd
-K:Aeolian/Dorian
-I:R-7
 M:4/4
 R:Processional
 C:Trad. arr. John Tose
@@ -49,8 +41,6 @@ E | G G2 G | G F2 A | G E2 D | d d2 D | E B2 G | A B2 A | G E2 D | d d2 D | E B2
 
 X:5
 T:Mae'r Flwyddyn yn Marw - The Year is Ended
-K:Ionian/Mixolydian
-I:R-6
 M:3/4
 R:New Years Carol
 C:Trad. 
@@ -60,8 +50,6 @@ F/2G/2 | A F B | A G F | E D E | F2 F/2G/2 | A F B | A G F | E D C | D2 D/2E/2 |
 
 X:6
 T: Gwyll cyn Gwawr - Dark before Dawn
-K:Ionian/Mixolydian
-I:R-6
 M:2/4, 3/4
 R:Slow Air
 C:John Tose
@@ -74,8 +62,6 @@ BG FE FG | AF ED EF | BG FE FG | A6 | BG FE FG | AF ED EF | E2 EF ED | E6 :||
 
 X:7
 T:Hobed o Hilion - A Bushel of Siftings
-K:Ionian*
-I:R-8
 M:3/4
 R:Waltz
 C:Trad. arr. John Tose
@@ -87,8 +73,6 @@ d4 cd | B2 F2 D2 | d4 cd | B2 F2 D2 | D3   E FD | E4 E2 | D3 E FD | E2 F2 A2 |
 
 X:8
 T:Welsh Dance
-K:Mixolydian (#4) (#7)
-I:L7-8
 M:6/4
 R:Waltz
 C: Anonymous
@@ -99,8 +83,6 @@ D2 G2 F2 G6 | E2 A2 ^G2 A6 | F2 =G2 A2 B6 | G2 B2 ^c2 d6 | G2 B2 A2 G4 F2 | G2 E
 
 X:9
 T:Pymtheg Hanner Crown - Fifteen Half-Crowns
-K:Aeolian
-I:R-7
 M:6/8
 R:March
 C:Rhodri Smith
@@ -111,8 +93,6 @@ L:1/8
 
 X:10
 T:Yr Hen Folgan - The Old Leather Bag
-K:Aeolian (L#7)
-I:L#7-7
 M:3/4
 R:Waltz
 C:John Tose
@@ -122,8 +102,6 @@ G/2A/2 | B>c B | B A G  | A/2B/2 c/2d/2 c/2B/2 | A2 B/2A/2 | G B d | d c B | A>B
 
 X:11
 T:Y Glaniad - The Landing
-K:Mixolydian (#7)
-I:R-8
 M:3/4
 R:Waltz
 C:John Tose
@@ -133,8 +111,6 @@ FE ||: DE FG A2 | DE FG A2  | GA Bc  B2 | G4 F2 | DE FG A2 | DE FG A2 | G2 F2 E2
 
 X:12
 T: Ar Ddiwrnod Braf o Haf - On a Fine Summers' Day
-K:Aeolian/Dorian*
-I:L7-5
 M:3/4
 R:Waltz
 C:John Tose
@@ -145,8 +121,6 @@ B>A G | G F E | F G A | E2   G | B>A G | G F E | D3     | D/2 E/2 F/2G /2 
 
 X:13
 T: Bedd y Morwr - The Sailor's Grave
-K:Ionian (#5)
-I:R-8
 M:6/8
 R:Jig
 C:Trad. arr. John Tose
@@ -158,8 +132,6 @@ L:1/8
 
 X:14
 T: Abergele
-K:Mixolydian
-I:R-7
 M:3/2
 R:Hymn
 C:J. A. Lloyd 1815 - 74
@@ -170,8 +142,6 @@ B A G | G F E | D2 D | D2  D | E2 D | D3 ||
 
 X:15
 T: Diolch am yr Efengyl
-K:Ionian/Mixolydian
-I:R-4
 M:4/2
 R:Hymn
 C:Trad. 
@@ -180,8 +150,6 @@ D2 F F | E E D D | G F E2 | F F/2F/2 E E | D D/2D/2 E E | F D/2F/2 G F | E2 D2 |
 
 X:16
 T:Llangloffan
-K:Aeolian/Dorian (L#7)
-I:L#7-5
 M:4/2
 R:Hymn
 C:Trad. 
@@ -193,8 +161,6 @@ B | E E F F | G>F E E | A      A G      G  | F3 B |
 
 X:17
 T: Ffigysbren (Clod)
-K:Ionian/Mixolydian
-I:R-5
 M:4/4
 R:Hymn
 C:Trad. 
@@ -206,8 +172,6 @@ D2 FF | F2 A2 | G F E E | D4 ||
 
 X:18
 T:Rhuddlan
-K:Mixolydian*
-I:R-8
 M:4/4
 R:Hymn
 C:Trad. 
@@ -218,8 +182,6 @@ L:1/8
 
 X:19
 T: Cemaes
-K:Ionian
-I:R-8
 M:4/4
 R:Hymn
 C:John Williams 1740 - 1921
@@ -228,8 +190,6 @@ A || A A A F | B A/2G/2 F A | F G A d | c B A A | d A B A | G F E A | F D G F | 
 
 X:20
 T:Talyllyn
-K:Mixolydian*
-I:R-8
 M:4/4
 R:Hymn
 C:Trad. 
@@ -239,8 +199,6 @@ D | G F E G | F E D A | B G A F | G3 :|| G | B F G B | B2 A D | F G F E | | D3 A
 
 X:21
 T: Bryn-y-Coed
-K:Ionian (#4) (♮7)
-I:R-8
 M:3/2
 R:Hymn
 C:R. G. Owen 1869 - 1930
@@ -249,8 +207,6 @@ A | A F B | A2    F | F2    E | D2    D | G F G | =c2    B | A3  �
 
 X:22
 T: Dymuniad
-K:Aeolian/Dorian
-I:R-5
 M:4/4
 R:Hymn
 C:R. Williams 1805 - 76
@@ -259,8 +215,6 @@ E | G F E B | A G F F | G A B A/2 G/2 | F2 E F | G G A A | B B A B | G F E A/2G/
 
 X:23
 T:Ymdeithdon Hiraeth - Hiraeth March
-K:Ionian (L♮7)
-I:L♮7-8
 M:2/4
 R:March
 C:Trad. arr. John Tose
@@ -271,8 +225,6 @@ AA A>A | FD AD/2E/2 | FF E>F | ED DD/2E/2 | FF ED | BA B/2c/2d | FF E>F | | ED D
 
 X:24
 T:Penblwydd Biddy - Biddy's Birthday
-K:Aeolian/Dorian
-I:L7-7
 M:3/4
 R:Mazurka
 C:Kate Pawsey
@@ -281,8 +233,6 @@ E FG | B3 A GF | G2 EE FG | B3 A GF | G3 E FG | B3 A GF | G2 E2 B2 | B3 A GF |1 
 
 X:25
 T: Cerdd Dy'Calan - New Years Day Song
-K:Ionian/Mixolydian
-I:R-5
 M:6/8
 R:Processional
 C:Trad. arr. John Tose
@@ -291,8 +241,6 @@ D2 E F2 G | A3 A2 G | F2 A G2 F | E3-E2 A | G2 F E2 F | D3 D2 D | F2 F E2 F | D3
 
 X:26
 T:Y March Glas - The Grey Horse
-K:Ionian/Mixolydian
-I:R-6
 M:2/4
 R:March
 C:Trad.
@@ -301,8 +249,6 @@ AA A2 | A3 A | B2 G2 | F2 A2 | A2 AA | A3 A | B2 GG | F2 A2 | DE FE | DD D2 | EF
 
 X:27
 T:The Bells of Aberdovey
-K:Mixolydian*
-I:R-8
 M:4/4
 R:Processional
 C: Charles Dibdin 1786
@@ -312,8 +258,6 @@ B>c B>A Bd dc | B>c B>A Bd dc | BA cB AF GB/2G/2 | EA DF G G3 | B2 G2 d2 B2 | B2
 
 X:28
 T: Eryri Wen
-K:Aeolian (L#7)
-I:L7-7
 M:4/4
 R:Slow Air
 C:Trad. arr. John Tose
@@ -323,8 +267,6 @@ E/2F/2 | G E F ^D | E B B c | B G F>B | E3 G/2A/2 | B G A F | G =D E>c | B G B/2
 
 X:29
 T:Hen Wlad fy Nhadau - Land of my Fathers
-K:Ionian
-I:R-8
 M:3/4
 R: Anthem
 C:James James 1833 - 1902
@@ -333,8 +275,6 @@ D | F E D | A G F | d d B/2c/2 | d2 B | A F D | D C D | F E E | E2 A | A A F/2G/
 
 X:30
 T: Calon Lan
-K:Mixolydian*
-I:R-8
 M:3/2
 R:Hymn
 C:Trad.
@@ -344,8 +284,6 @@ D G | B3    G A B | G2   D2   E F | G3    E c B | B2   A2   D G | 
 
 X:31
 T:Myfanwy
-K:Mixolydian* (#5)
-I:R-8
 M:4/4
 R:Slow Air
 C:Trad.
@@ -355,8 +293,6 @@ D2 | G3 G GG A>G | G2 F4 F2 | A3 A AA B>A | A2 G4 D2 | B3 B BB c>B | B2 A4 FG | 
 
 X:32
 T: God Bless the Prince of Wales
-K:Mixolydian* (#7)
-I:R-8
 M:4/4
 R:Processional
 C:Trad.
@@ -366,8 +302,6 @@ D | B>d c B | B2 A A | G>B A G | F3 D | d>B G F | E E2 c | B>G A>G | G3 B | A>E 
 
 X:33
 T:Lle Digon Ddiddig yw Caerfyrddin
-K:Ionian/Mixolydian*
-I:R-6
 M:2/4
 R:Plin
 C: Ceri Rhys Matthews
@@ -377,8 +311,6 @@ ED EF | GA   G2   | ED EF | E2   D2   :|| ED EF | GA G2   | B2   AG 
 
 X:34
 T: Brig y Brwyn
-K:Aeolian/Dorian
-I:L7-5
 M:2/4
 R:Plin
 C:Trad. arr. Jason Lawday
@@ -387,8 +319,6 @@ EB BG | A2    B2    | FA AF | G2    F2    :|| EE EG | FE F2   | EE
 
 X:35
 T: Can Hela'r Dryw - The Wren Hunting Song
-K:Ionian/Mixolydian (#4)
-I:R-6
 M:6/8
 R:Processional
 C:Trad. arr. John Tose
@@ -397,8 +327,6 @@ D2 D F2 F/2F/2 | EEE D D2 | F2 F A2 A/2A/2 | GGG F F2 | D2 D F2 F/2F/2 | EEE G3�
 
 X:36
 T: Ei Di'r Deryn Du? - Blackbird, will you go?
-K:Aeolian/Dorian
-I:R-7
 M:4/4
 R:Slow Air
 C:Trad. arr. John Tose
@@ -408,8 +336,6 @@ E>   F    G    E    | A4                    | E �
 
 X:37
 T:Ymgyrchdon y Waunlwyd - The Waunlwyd Warcry
-K:Ionian
-I:L7-8
 M:2/4
 R:Processional
 C:Trad.
@@ -418,8 +344,6 @@ AB/2c/2 | dA FA | GE EG | FD AF | FE AB/2c/2 | dA FA | GE EG | FD E/2D/2C |1 D2�
 
 X:38
 T: Dawns y Pentref - The Village Dance
-K:Mixolydian*
-I:R-8
 M:2/4
 R:Processional
 C:Trad.
@@ -430,8 +354,6 @@ dc | B2G2 G2D2 | E4      D2G2 | F2G2 c2B2 | AGAB A2dc | B2G2 G2D2 | E4  �
 
 X:39
 T:Men of Wrexham's Hornpipe
-K:Ionian
-I:R-8
 M:4/4
 R:Hornpipe
 C:Trad.
@@ -441,8 +363,6 @@ D2   | A2 d2 dA FA | G2   B2   B2 dB | AF AF BA GF | EF GF E4     | A2
 
 X:40
 T:Hoffedd Syr Watcyn - Sir Watcyn's Fancy
-K:Mixolydian*
-I:R-8
 M:4/4
 R:Processional
 C:Trad.
@@ -453,8 +373,6 @@ D | G2   B2   cB   AG | FG AB c2 BA | G2   B2   A2   G2 | FE FG A2 
 
 X:41
 T: Biwmares March
-K:Mixolydian*
-I:R-8
 M:2/4
 R:Processional
 C:Trad.
@@ -464,8 +382,6 @@ D | G2    A2 | BA/2B/2 Gd/2c/2 | B2   A>G |   G3     :|| B | AG AB | 
 
 X:42
 T: Cariad Huw'r Melinydd
-K:Aeolian*
-I:R-7
 M:2/4
 R:Processional
 C:John Tose
@@ -475,8 +391,6 @@ cB |   A2A2    E2E2   | GAGF    E2E2   |   AGAB    c2dc    |
 
 X:43
 T: Deffrown! Deffrown! - Awake! Awake!
-K:Mixolydian*
-I:R-8
 M:6/8
 R:Plygain Carol
 C:Trad.
@@ -486,8 +400,6 @@ D | G2 D G2 A | B2 c d3-    d3      d3     | c2 B AGA | B2 A G3-  
 
 X:44
 T: Ar Gyfer Heddiw'r Bore
-K:Mixolydian*
-I:R-6
 M:4/4
 R:Plygain Carol
 C:Trad.
@@ -497,8 +409,6 @@ G2   |   B    A    G    F   |   G    D   G    A   | 
 
 X:45
 T:St. Beuno
-K:Aeolian
-I:R-6
 M:4/4
 R:Hymn
 C:Ifan Williams 1586
@@ -507,8 +417,6 @@ E2           |     G     F      |     B      F 
 
 X:46
 T: Glanbargoed
-K:Mixolydian* (#6)
-I:R-8
 M:2/4
 R:Processional
 C:Trad. Arr. Ceri Rhys Matthews
@@ -520,8 +428,6 @@ BB   AB/2A/2   |   GE   DE   |   GG   AG/2A/2   |   BA   GE�
 
 X:47
 T:Y Lili - The Lilly
-K:Ionian
-I:R-8
 M:2/4
 R:Processional
 C:Trad.
@@ -531,8 +437,6 @@ A2   |   dcdA   B2AG   |   FEFA   E2A2   |   dcdA   B2AG   |
 
 X:48
 T:What if I seek for Love?
-K:Dorian (#7)
-I:L7-7
 M:4/4
 R:Slow Air
 C:Robert Jones 1601
@@ -542,8 +446,6 @@ B2   EG   F2   E2   A2   G2   F4   |   EF   G2   FG   A2 
 
 X:49
 T: Croen y Ddafad Felan - The Yellow Sheepskin
-K:Aeolian/Dorian
-I:R-5
 M:4/4
 R:Ronde St. Vincent
 C:Trad. arr. John Tose
@@ -554,8 +456,6 @@ E>F   G>A   B2   B2   |   A>G   A>F   B2   B2   |   E>F   
 
 X:50
 T:Y Ddafad Gorniog - The horned Ewe
-K:Dorian
-I:R-7
 M:4/4
 R:Ronde St. Vincent
 C:Trad. Arr. Ceri Rhys Matthews
@@ -566,8 +466,6 @@ E>F   G>A   B2   B>d   |   c2     B2     A4      |   E>
 
 X:51
 T:Yr Hwrdd
-K:Dorian (♮6)
-I:L7-7
 M:4/4
 R:Ronde St. Vincent
 C:John Tose
@@ -577,8 +475,6 @@ L:1/8
 
 X:52
 T:Marwnad yr Heliwr - Death of the Hunter
-K:Ionian
-I:L7-8
 M:3/4
 R:Waltz
 C:Trad. arr. Ceri Rhys Matthews
@@ -589,8 +485,6 @@ FE |  D2 d3  c | d4   A2 | D3  F E>C | D4   A2 | d3 c B2 | A2 G2 F2 | EF G2 F2 |
 
 X:53
 T:Jig y Pendref - The Village Jig
-K:Ionian
-I:R-8
 M:6/8
 R:Jig
 C:Trad.
@@ -600,8 +494,6 @@ L:1/8
 
 X:54
 T:Ty a Gardd
-K:Ionian, Aeolian, Dorian
-I:R-8
 M:6/8
 R:Jig
 C:Trad. arr. Ceri Rhys Matthews
@@ -612,8 +504,6 @@ L:1/8
 
 X:55
 T: Dawns y Glustog - The Pillow Dance
-K:Mixolydian*
-I:R-8
 M:2/4
 R:Processional
 C:Trad. arr. Ceri Rhys Matthews
@@ -625,8 +515,6 @@ G2d2 c3B | AGAB G2D2 | G2d2 c3B | AGAB G4  ||
 
 X:56
 T:Rhyfelgyrch Capten Morgan
-K:Aeolian/Dorian
-I:L7-5
 M:4/4
 R:Slow Air
 C:Trad. arr. John Tose
@@ -637,8 +525,6 @@ L:1/8
 
 X:57
 T:Mwynen Glan Teifi
-K:Aeolian
-I:R-7
 M:4/4
 R:Slow Air
 C:Trad. arr. John Tose
@@ -648,8 +534,6 @@ B/2c/2 | d B c A | B A G A | B3 F | | G>G A A | B3 B | c B A G | F3 G | E/2F/2 G
 
 X:58
 T:Parsal y Fesur
-K:Aeolian/Dorian, Ionian/Mixolydian
-I:L7-5
 M:3/4
 R:Waltz
 C:Trad. arr. Ceri Rhys Matthews
@@ -660,8 +544,6 @@ GA | BG EB GE | AF DA FD | BG EB GE | AF DA FD | EG FE D2 | EG FE D2 | E2 EF GA 
 
 X:59
 T: Ar Fore Dydd Nadolig - On Christmas Morning
-K:Ionian/Mixolydian
-I:2-6
 M:2/4
 R: Carol
 C:Trad.
@@ -670,8 +552,6 @@ A2 | AA AB | GA EF | GA GF | FE A2 | AA AB | GA A2 | AA A>G | FG A>G | FG A2 | G
 
 X:60
 T: Beth yw'r Haf i Mi? - What is Summer to Me?
-K:Ionian/Mixolydian
-I:R-6
 M:2/4
 R:Plin
 C:Trad. arr. John Tose
@@ -681,8 +561,6 @@ L:1/8
 
 X:61
 T: Ble rwt ti'n Mynd?
-K:Aeolian
-I:R-6
 M:2/4
 R:Pln
 C:Trad. arr. Ceri Rhys Matthews
@@ -692,8 +570,6 @@ A2 A2 | FA A2 | G2 FE | F2 GF | E2 ED | E2 EF | G2 A2 | B4  | c2 Ac | B2 EF | G2
 
 X:62
 T: Blodau'r Drain - The Flowers of the Thorn
-K:Aeolian (L#7)
-I:L#7-6
 M:3/4
 R:Waltz
 C:Trad.
@@ -704,8 +580,6 @@ F2 | G4    G2 | A4    A2 | B2 B2 c2 | B4  A2 | GF GA G2 | AG AB A2 | B2 B2 c2 | 
 
 X:63
 T: Bois y Cware - The Quarry Boys
-K:Mixolydian*
-I:R-8
 M:2/4
 R:Processional
 C:Trad.
@@ -717,8 +591,6 @@ B>A GD | EG D2 | DB A2 | DA G2 | B>A GD | EG D2 | DB AF | G2 G2 :|
 
 X:64
 T: Bombobwmbwr
-K:Aeolian/Dorian
-I:L7-5
 M:3/4
 R:Hanter Dro
 C:John Tose
@@ -728,8 +600,6 @@ EE/2F/2 GE AG | EE/2F/2 GE D/2E/2F | EE/2F/2 GE AG | GB A/2 G/2F/2E/2 DF :|
 
 X:65
 T: Bwlch Llanberis - Llanberis Pass
-K:Mixolydian*
-I:R-8
 M:3/4
 R:Waltz
 C:Trad.
@@ -740,8 +610,6 @@ L:1/8
 
 X:66
 T: Bwmba
-K:Ionian/Mixolydian
-I:R-8
 M:4/4
 R:Processional
 C:Trad. 
@@ -750,8 +618,6 @@ A | D F/2E/2 D F | A F E2 | D F D F | D/2 E/2 F/2G/2 A>A | B B G B | d B A>A | d
 
 X:67
 T: Brothen i'r Buarth
-K:Mixolydian*
-I:R-8
 M:3/4
 R:Slow Air
 C:Trad.
@@ -762,8 +628,6 @@ G A | B3 | A B G | F D2- | D G A | B3 | A B G | A G2- | G B c | d3 | d B G | A F
 
 X:68
 T: Galar Ffrancod - The Grief of the French
-K:Aeolian
-I:L7-6
 M:6/8
 R:Jig
 C:Trad. arr. John Tose
@@ -774,8 +638,6 @@ L:1/8
 
 X:69
 T: Ffarwel i Langyfelach Lon
-K:Aeolian
-I:L7-5
 M:4/4
 R:Slow Air
 C:Trad.
@@ -784,8 +646,6 @@ G | G3 E F3 E | DE F2 E4- | E B BB c B2 A | G2 A2 B3 E | B3 B A2 GA | B3 E F3 E 
 
 X:70
 T:Hoboi Tiwn Cymraeg
-K:Dorian
-I:R-7
 M:6/8
 R:Jig
 C:Trad.
@@ -795,8 +655,6 @@ L:1/8
 
 X:71
 T:Pant Corlan yr Wyn - The Lamb Fold Vale
-K:Aeolian/Dorian
-I:L7-6
 M:2/4
 R:Processional
 C:Trad. arr. John Tose
@@ -811,8 +669,6 @@ L:1/16
 
 X:72
 T:Y Lleuan - The Louse
-K:Ionian/Mixolydian
-I:R-4
 M:2/4
 R:Processional
 C:Trad.
@@ -824,8 +680,6 @@ D/2E/2 | FF EE | F F2  D/2E/2 |
 
 X:73
 T:Tregib
-K:Ionian/Mixolydian
-I:R-6
 M:2/4
 R:Scottische
 C: Ceri Rhys Matthews
@@ -835,8 +689,6 @@ L:1/16
 
 X:74
 T: Capel y Ddol
-K:Aeolian/Dorian
-I:R-5
 M:3/2
 R:Hymn
 C:Joseph David Jones 1827 - 1870
@@ -846,8 +698,6 @@ B B F | | E4 A2 A2 || G G | F2 F2 G F | E2 E2 A G | F4 G A | B2 B A G
 
 X:75
 T:Nos Galan (Mon) - New Years Eve
-K:Mixolydian
-I:R-7
 M:2/4
 R:Processional
 C:Trad.
@@ -859,8 +709,6 @@ EF GA | EF FE | DE FE | FE D2 | EF GA | EF FE | DE FE | D2 D2  ||
 
 X:76
 T:Ty Croes Bach yn Rhiw
-K:Ionian/Mixolydian
-I:R-5
 M:2/4
 R:Scottische
 C: Ceri Rhys Matthews
@@ -871,8 +719,6 @@ L:1/16
 
 X:77
 T:Machynlleth
-K:Ionian
-I:R-8
 M:2/4
 R:Processional
 C:Trad. arr. John Tose
@@ -885,8 +731,6 @@ L:1/16
 
 X:78
 T:Rheidol
-K:Aeolian (L#7)
-I:L#7-6
 M:4/2
 R:Hymn
 C:Ieuan Gwyllt 1822 - 77
@@ -896,8 +740,6 @@ G F  E F | G A B2  | B c A2  | A B G2 | F B  B E/2F/2 | G F E2  ||
 
 X:79
 T:Y Delyn Newydd - The New Harp
-K:Ionian
-I:R-8
 M:2/4
 R:Processional
 C:Trad.
@@ -907,8 +749,6 @@ L:1/16
 
 X:80
 T:Y Delyn - The Harp
-K:Ionian/Mixolydian
-I:R-8
 M:6/8
 R:Jig
 C:Trad.
@@ -919,8 +759,6 @@ A | E2 E E2 A | F2 F F2 A | AGG GFF | FEE E2 A | E2 E E2 A | F2 F F2 A | dBG EF 
 
 X:81
 T:Morfa Rhuddlan - Rhuddlan Marsh
-K:Aeolian (L#7)
-I:L#7-7
 M:3/4
 R:Waltz
 C:Trad.
@@ -931,8 +769,6 @@ B2 GA BG | A2 FG AF | G2 EG FE | ^D2 E2 F2 | E2 EF GB | A2 cB AG | F2 E2 ^D2 | E
 
 X:82
 T:Robin Ddiog
-K:Aeolian
-I:R-6
 M:6/8
 R:Processional
 C:Trad.
@@ -942,8 +778,6 @@ E | G2 G FFF | E2 E G2 G | F2 F E2 E | B2 B E2 B | E2 E E2 F | G2 A B2 A | GFE F
 
 X:83
 T:Lisa Lan - Fair Lisa
-K:Ionian, Mixolydian
-I:R-8
 M:3/4*
 R:Slow Air
 C:Trad.
@@ -953,8 +787,6 @@ D FA | A- G2 E DD | D3 D FA | c3 d c>B | A3 D FA | c3 d cB | A3 D FA | A- G2 E D
 
 X:84
 T: Evans' Jig
-K:Aeolian & Ionian
-I:R-7
 M:6/8
 R:Jig
 C:Trad.
@@ -965,8 +797,6 @@ L:1/8
 
 X:85
 T: Difyrrwch Corbett o Ynysmaengwyn
-K:Aeolian
-I:L4-4
 M:6/8
 R:Jig
 C:Trad. arr. John Tose
@@ -977,8 +807,6 @@ L:1/8
 
 X:86
 T: Doed a Ddel - Come what may
-K:Dorian
-I:L3-4
 M:6/8
 R:Jig
 C:Trad. arr. John Tose
@@ -989,8 +817,6 @@ L:1/8
 
 X:87
 T:Mae'r Ddaear yn Glasu - The Earth is growing Green
-K:Aeolian
-I:R-7
 M:2/4
 R:Slow Air
 C:Trad.
@@ -999,8 +825,6 @@ E | B B2 B | A A2 B | G B2 G | F F2 E | G G AB | B A2 F | E E2 G | F3 E | GG GF 
 
 X:88
 T:Hud y Bibell - The allurement of the Pipe
-K:Aeolian (L#7) (#3)
-I:L7-7
 M:3/4
 R:Waltz
 C:Trad. arr. John Tose
@@ -1011,8 +835,6 @@ L:1/8
 
 X:89
 T:Ty Coch Caerdydd - The Red House of Cardiff
-K:Aeolian
-I:R-6
 M:4/4
 R:Processional
 C:Trad. arr. John Tose
@@ -1024,8 +846,6 @@ L:1/8
 
 X:90
 T: Ffoles Llantrisant - The Foolish Girl of Llantrisant
-K:Ionian
-I:R-6
 M:3/4
 R:Waltz
 C:Trad.
@@ -1035,8 +855,6 @@ L:1/4
 
 X:91
 T: Dyma Gariad fel y Moroedd - Here is Love like the Oceans
-K:Ionian/Mixolydian
-I:R-6
 M:3/4
 R:Waltz
 C:Trad.
@@ -1046,8 +864,6 @@ A2 F | A F/2G/2 A | B2 A | G F2 | A2 F | A F/2G/2 A | B2 A/2G/2 | F3 | F>G A/2B/
 
 X:92
 T: Crug-y-Bar
-K:Ionian/Mixolydian
-I:R-8
 M:4/4
 R:Hymn
 C:Trad.
@@ -1058,8 +874,6 @@ A | A2 G F | B2 B d | B A2 G | F A2 B      | B2 A F | E3 D/2E/2 |
 
 X:93
 T: Ffarwel i Aberystwyth - Farewell Aberystwyth
-K:Aeolian
-I:R-6
 M:6/8
 R:Slow Air
 C:Trad.
@@ -1068,8 +882,6 @@ E | G2 E A2 G | A B2- B2 E | E2 B BAG FED | D E2- E2 E/2F/2 | G>AB AGF | E3- E2 
 
 X:94
 T:Y Delyn Aur - The Golden Harp
-K:Aeolian/Dorian
-I:R-5
 M:4/4
 R:Hymn
 C:Trad.
@@ -1079,8 +891,6 @@ G2 G2 F2 F2 | EF GA B2 B2 | BB BA GA B2 | BB BA GA B2 | B2 B2 EB AG | F2 F2 E4 |
 
 X:95
 T:Y Gerwyn - The Tub
-K:Aeolian (#6)
-I:R-7
 M:3/4
 R:Hanter Dro
 C:John Tose
@@ -1090,8 +900,6 @@ L:1/8
 
 X:96
 T:Tower Colliery March
-K:Ionian
-I:R-8
 M:2/4
 R:Processional
 C: Ceri Rhys Matthews
@@ -1101,8 +909,6 @@ L:1/8
 
 X:97
 T:Ton y Botel / Ebenezer
-K:Aeolian/Dorian
-I:R-5
 M:4/4
 R:Hymn
 C:Thomas John Williams 1869 - 1944
@@ -1113,8 +919,6 @@ E2 (3EFG F2 E2 | F2 (3FGA G>F E2 | B2 (3ABc B>A G2 | A>G F2 E4     ||
 
 X:98
 T:Llwyn Onn
-K:Aeolian
-I:L7-7
 M:3/4
 R:Slow Air
 C:Trad. arr. John Tose
@@ -1126,8 +930,6 @@ L:1/8
 
 X:99
 T:Philomela
-K:Aeolian
-I:L7-6
 M:4/4
 R:Slow Air
 C:Trad. arr. John Tose
@@ -1137,8 +939,6 @@ G>F E F | G F E>E | E B B A | G A B2 | B>B A A | G G F2 | E F G E | D c B2 | E>F
 
 X:100
 T: Cainc y Fflemynes - The Flemish Womans Song
-K:Mixolydian
-I:R-8
 M:4/4
 R:Processional
 C:Trad. arr. John Tose
@@ -1151,8 +951,6 @@ G2 F2 | E/2G/2 F/2E/2 D D | E E/2F/2 G F | G B d B/2A/2 | G A/2G/2 F E ||
 
 X:101
 T:Lloer Dirion Lliw'r Dydd
-K:Aeolian
-I:R-6
 M:3/4
 R:Slow Air
 C:Trad. arr. John Tose
@@ -1162,8 +960,6 @@ G | FA B | B2 F | G>A B | BA B | B
 
 X:102
 T:Y Galon Drom - The Heavy Heart
-K:Aeolian (L#7)
-I:L#7-6
 M:2/4
 R:Lament
 C:Trad. arr. John Tose
@@ -1174,8 +970,6 @@ B>B BB c>B | B>A B>A | G>F GG | B>B BB c>B | B>B B>A | G>F GG || B>A A>G | G>F F
 
 X:103
 T:The Damsels of Cardigan
-K:Aeolian
-I:R-6
 M:4/4
 R:Processional
 C:Trad. arr. John Tose
@@ -1187,8 +981,6 @@ G/A/ | B2 cA BG FG | FE  EE E3 G/A/ | B2  cA BG FG | A2  BG G F2 G/A/ | B2 cA BG
 
 X:104
 T: Bro Aber
-K:Mixolydian*
-I:R-7
 M:3/4
 R:Hymn
 C:J. Haydn Phillips 1917 - 85
@@ -1198,8 +990,6 @@ D | B>B c/B/ | B A G | G F E | D2 D | D>D E/F/ | G A B | B A E | A2 D | B>B c /B
 
 X:105
 T: Clawdd Madog
-K:Mixolydian*
-I:R-7
 M:4/4
 R:Hymn
 C: D. Christmas Williams 1871-1926
@@ -1212,8 +1002,6 @@ G | F E D G | A>B A F | B G F    F | F3 G    |
 
 X:106
 T:Uxbridge
-K:Aeolian
-I:R-7
 M:4/2
 R:Hymn
 C:J.H.Roberts 1848 - 1924
@@ -1222,8 +1010,6 @@ E | G E F A | G F E F | G B B A | B3 B | B d c B | A G F B | G B A F | E3 ||
 
 X:107
 T:Price
-K:Aeolian/Dorian (L#7)
-I:L#7-5
 M:3/4
 R:Hymn
 C: Daniel Protheroe 1866 - 1934
@@ -1232,8 +1018,6 @@ E^D EF GA | G2 F4 | EB BA GF | E6 | E^D EF GA | G2 F4 | EB BA GF | E4 FF | G2 G2
 
 X:108
 T: Cnott y Coed
-K:Mixolydian*
-I:R-8
 M:2/4
 R:Processional
 C:Trad.
@@ -1245,8 +1029,6 @@ L:1/8
 
 X:109
 T:The Mother's Lament
-K:Ionian
-I:R-8
 M:3/4
 R:Waltz
 C:Trad.
@@ -1256,8 +1038,6 @@ A B A | G F E | F/G/ A d | A>G F | G B G | F A F | E/F/ G/B/ A/F/ | F E2 | G F E
 
 X:110
 T:The Lady of Kidwelly
-K:Ionian
-I:R-8
 M:3/4
 R:Waltz
 C:Trad.
@@ -1269,8 +1049,6 @@ AB  AG  FE | F>G A4    | D>E F>G AB | AB  dc B2 | AB  AG  FE | E4 D2    ||
 
 X:111
 T:Philip the Active's Adieu
-K:Ionian (♮7)
-I:L7-8
 M:3/4
 R:Waltz
 C:Trad. arr. John Tose
@@ -1283,8 +1061,6 @@ D2 DE FD | G2 GA BG | A2 AB c2 | d2 D4 | d2 dc B2 | AB AG F2 | GF ED EC | D6 :|
 
 X:112
 T:Hob-y Dylif - The Porpoise
-K:Ionian (#5)
-I:R-8
 M:6/8
 R:Jig
 C:Trad. arr. John Tose
@@ -1296,8 +1072,6 @@ F/G/ | AFB AFD | DED FED | D>ED FED | FAA A2 :|
 
 X:113
 T:Ty fy Nhad - My Fathers House
-K:Mixolydian*
-I:R-8
 M:3/4
 R:Slow Air
 C:Trad.
@@ -1312,8 +1086,6 @@ D | G/A/ B A | G/F/ E>D | E/G/ A>B | A2 D   |
 
 X:114
 T: Castell Towyn - Towyn Castle
-K:Ionian (#4)
-I:R-8
 M:3/4
 R:Waltz
 C:Trad.
@@ -1324,8 +1096,6 @@ L:1/4
 
 X:115
 T: Dydd Gwyl Ddewi - St. David's Day
-K:Ionian
-I:R-5
 M:4/4
 R:Processional
 C:Trad.
@@ -1340,8 +1110,6 @@ D/E/ | F F F    F/E/ | D    D    D F/G/ | A A/B/ A F | A3 D/E/ |
 
 X:116
 T: Arabia
-K:Ionian
-I:R-8
 M:2/4
 R:Hymn
 C:Trad.
@@ -1351,8 +1119,6 @@ A2 | D2 E2 | F2 G/A/B | A2 G2 | F3 A | B2 A2 | G2 F2 | F4 | E3 A | A2 B2 | A3 A 
 
 X:117
 T:Tangnefedd
-K:Ionian
-I:L7-8
 M:4/2
 R:Hymn
 C:Olive V. Davies 1895 - 1971
@@ -1361,8 +1127,6 @@ D>D | A A B A/G/| F D F A | d B G G | F2 F A | B>A G E | D C D E | F A B B | A2 
 
 X:118
 T: Brynhyfryd
-K:Mixolydian*
-I:2-7
 M:4/2
 R:Hymn
 C:Trad.
@@ -1372,8 +1136,6 @@ G2 B A | G2 F2 | G>A B G | A2 G>A | B E A G | F2 G2 | G2 B B | A A G G | A2 A2 |
 
 X:119
 T:Rhosymedre
-K:Mixolydian*
-I:R-8
 M:4/2
 R:Hymn
 C:John Edwards 1805 - 1885
@@ -1386,8 +1148,6 @@ D | G G A A | B3  G   | c c B A | G3 D    |
 
 X:120
 T:Ymdeithgan Gwyr Llanelli
-K:Ionian
-I:L7-5
 M:4/4
 R:Processional
 C:Trad. arr. Pibau Pencader
@@ -1401,8 +1161,6 @@ A2 | D2 FE D2 DE | FG FE D2 (3DEF | E2 ED EG FE | D2 D E D2 A2 |
 
 X:121
 T: Erddigan y Pibydd Coch - The Red Piper's Tune
-K:Ionian
-I:R-8
 M:3/4
 R: Air
 C:Trad. arr. Ceri Rhys Matthews
@@ -1413,8 +1171,6 @@ D/E/ F/G/ A | d d c | d A F | G E/F/ G/E/ | D/E/ F/G/ A | d d c | d A A/B/ | A/G
 
 X:122
 T:Y Crwtyn Llwyd - The Grey Lad
-K:Aeolian/Dorian
-I:L7-5
 M:2/4
 R:Processional
 C:Trad. arr. Ceri Rhys Matthews
@@ -1425,8 +1181,6 @@ F>G AB | AG F2 | F>G AB | AG F2 | B>A GF | GA B2 | | F/G/A GF | E4 ||
 
 X:123
 T:Y Hwch yn y Haidd - The Pig in the Barley
-K:Aeolian/Dorian
-I:L7-5
 M:2/4
 R:Processional
 C:Trad.
@@ -1436,8 +1190,6 @@ L:1/8
 
 X:124
 T: Du fel y Glo - Black as the Coal
-K:Ionian
-I:R-8
 M:9/8
 R:Slip jig
 C:Trad.
@@ -1447,8 +1199,6 @@ L:1/8
 
 X:125
 T:Hyd y Frwynen - The Length of the Rush
-K:Aeolian (L#7)
-I:L#7-7
 M:4/4
 R:Processional
 C:Trad.
@@ -1458,8 +1208,6 @@ B B/c/ d B | A A/B/ c B/A/ | B c d c/B | A G F2 | G/A/ B B A/G/ | F/G/ A A G/F/|
 
 X:126
 T:Hen Wr Pencader - The Old Man of Pencader
-K:Ionian
-I:L7-5
 M:2/4
 R:Processional
 C: Ceri Rhys Matthews
@@ -1469,8 +1217,6 @@ A>G F/G/A | G>F E/F/G | F>E D/E/F | E2 E2 | A>G F/G/A | G >F EA | GF EE | D2 D2 
 
 X:127
 T:Synnwyr Solomon - The Wisdom of Solomon
-K:Dorian
-I:L7-7
 M:6/8
 R:Jig
 C:Trad.
@@ -1481,8 +1227,6 @@ B | B2 c d3   | dcB AB B | B2 c d2 d | cBA B3  |
 
 X:128
 T:Hiraeth
-K:Ionian
-I:R-8
 M:2/4
 R:Slow Air
 C:Trad.
@@ -1491,8 +1235,6 @@ A A3 | A A3- | A2 F>D | A A3- | A2 DE | F>F EF | E D3- | D2 D>E | FF ED | BA (3B
 
 X:129
 T:Suo Gan
-K:Ionian/Mixolydian
-I:R-8
 M:4/4
 R:Slow Air
 C:Trad.
@@ -1501,8 +1243,6 @@ D>E FD FE FG AG AG AB A2 | D>E FD FE F
 
 X:130
 T:Jig Arglwydd Caernarfon - The Lord of Caernarfon's Jig
-K:Aeolian/Dorian
-I:L7-5
 M:4/4
 R:Processional
 C:Trad. arr. John Tose
@@ -1514,8 +1254,6 @@ B/A/ G/A/ B G | F/E/ F/G/ A B/A/ | G E F/E/ D | E2- E2 ||
 
 X:131
 T:Rachel Dafydd Ifan
-K:Aeolian
-I:L7-6
 M:2/4
 R:Processional
 C:Trad. arr. John Tose
@@ -1526,8 +1264,6 @@ L:1/16
 
 X:132
 T: Dawns y Tylwyth Teg - The Fairy Dance
-K:Aeolian
-I:L7-6
 M:2/4
 R:Processional
 C:Trad. arr. Bob Evans
@@ -1538,8 +1274,6 @@ L:1/16
 
 X:133
 T:Rhuad Teirw'r Dyffryn - The Roaring of the Bulls of the Valley
-K:Aeolian (L#7)
-I:L#7-8
 M:2/4
 R:Processional
 C:Trad. arr. John Tose
@@ -1551,8 +1285,6 @@ GA | B2Bc A2AB | G2G2 GABc | d2B2 c2A2 | B2G2   GABc | B2Bc A2AB | G2G2 GABc | d
 
 X:134
 T:Mon
-K:Aeolian*
-I:L6-7
 M:2/4
 R:Processional
 C:Trad. arr. John Tose
@@ -1564,8 +1296,6 @@ E | A>A EE/D/ | C/D/E AB/c/ | d>c BA | B>A G/F/E | A>A EE/D / | C/D/E AA/B/ | cc
 
 X:135
 T:Marwnad yr Ehedydd - Death of the Lark
-K:Aeolian/Dorian
-I:L7-5
 M:4/4
 R:Processional
 C:Trad. arr. Ceri Rhys Matthews
@@ -1575,8 +1305,6 @@ EF | G2 E2 F2 ED | E2 E4 EF | G2 E2 F2 ED | | E6 EF | G2 E2 F2 ED | E2 E4 EF | G
 
 X:136
 T: Gwahoddiad
-K:Ionian
-I:R-8
 M:3/2
 R:Hymn
 C: G Hartshough (?)
@@ -1587,8 +1315,6 @@ D F | A3 F E D | D4 D2 | E3 G B A | F4 A2 | d3 c B A | B A F2 D2 | E3 D F E | D6
 
 X:137
 T: Gyrru'r Ychen - Driving the oxen
-K:Mixolydian*
-I:R-8
 M:4/4
 R:Slow Air
 C:Trad.
@@ -1598,8 +1324,6 @@ d2 cB AG AB | cB AG F D2 D | EF GA B d2 B | dd cA F D3 | G3- G/ G/ E D3 | G3- G/
 
 X:138
 T:Pigau'r Dur - The Points of Steel
-K:Ionian (#5)
-I:R-8
 M:2/4
 R:Processional
 C:Trad.
@@ -1609,8 +1333,6 @@ E>F EE | F>G FF | Bd cB | B ^A2 B | c2 B2 | cc B2 | Ed cB | =A3 B/c/ | d2 dc | B
 
 X:139
 T: Can y Ceiliog Du - The Black Cock's Song
-K:Ionian/Mixolydian
-I:R-6
 M:2/4
 R:Processional
 C:Trad.
@@ -1622,8 +1344,6 @@ FG | A>B AG | F>G AF | G>A GF | E>F GE | F>G FE | DE FG | A2 E2 | E2 DE |
 
 X:140
 T:Llongau Caernarfon - The Ships of Caernarfon
-K:Aeolian
-I:R-6
 M:2/4
 R:Slow Air
 C:J. Glyn Davies: Cerddi Huw Puw 1923
@@ -1639,8 +1359,6 @@ BA GF | EG  (3FED | E2    E2- | E4 ||
 
 X:141
 T: Digan y Pibydd Coch - The Red Piper's Melody
-K:Aeolian (L#7)
-I:L#7-6
 M:3/4
 R:Waltz
 C:Trad. arr. John Tose
@@ -1654,8 +1372,6 @@ EF | G2 G2 A2 | F3 E =D2 | E2 G2 FE | E2 ^D2 F2 | E2 B2 G2 | c2 B2 A2 | GA/B/ AG
 
 X:142
 T:Pwt ar y Bys - Buttered Peas
-K:Ionian 
-I:R-8
 M:2/4
 R:Processional
 C:Trad.
@@ -1666,8 +1382,6 @@ L:1/8
 
 X:143
 T: Dawns Hywel - Hywel's Dance
-K:Aeolian/Dorian
-I:L7-5
 M:2/4
 R:Processional
 C:Trad. arr. John Tose
@@ -1679,8 +1393,6 @@ D/E/F EG | F/G/ A    G/A/ B | E/F/ G/E/ F/G/ A/F/ | G    F    E2 ||
 
 X:144
 T: Cobler Coch o Hengoed - The Red Cobbler of Hengoed
-K:Ionian/Mixolydian
-I:R-6
 M:4/4
 R:Processional
 C:Trad.
@@ -1691,8 +1403,6 @@ G2 | G2 G2 G2 GA | GF E4 A2 | GB AG FE D2 | E6 FE |
 
 X:145
 T:Mopsi Don - Mopsi's Tune
-K:Aeolian
-I:L7-6
 M:6/8
 R:Jig
 C:Trad. arr. Ceri Rhys Matthews
@@ -1703,8 +1413,6 @@ L:1/8
 
 X:146
 T:The Welsh Rabbit
-K:Ionian/Mixolydian
-I:R-6
 M:4/4
 R:Processional
 C:Trad. arr. John Tose
@@ -1715,8 +1423,6 @@ D2 D2 A4 | AG FG A2 A2 | D2 D2 G4 | FE DF E2 E2 | D2 D2 A4 | AG FG A2 A2 | GF EG
 
 X:147
 T:Lloyd's Whim
-K:Aeolian/Dorian
-I:L7-5
 M:4/4
 R:Processional
 C:Trad. arr. John Tose
@@ -1727,8 +1433,6 @@ GE GB FD F2 | GE GB F2 E2 | GE GB FD F2 | G A FG E2 E2 :|
 
 X:148
 T:Lliw'r Heulwen - The colour of the Sunshine
-K:Aeolian/Dorian
-I:R-7
 M:4/4
 R:Slow Air
 C:Trad.
@@ -1737,8 +1441,6 @@ E | G G F E | E2 B A | G B F>G | E3 E | G A G F | E2 B A | G B F>G | E2- E>d | d
 
 X:149
 T: Deryn y Bwn o'r Banna
-K:Aeolian
-I:R-6
 M:6/8
 R:Processional
 C:Trad. arr. John Tose
@@ -1748,8 +1450,6 @@ EEE B2 B | G3 E3 | F2 F B2 B | G3 E3 | B2 G ABc | B2 G B3 | G2 E G3 | c3 B3 | A3
 
 X:150
 T:Tri Pheth Sydd Hawdd eu Siglo
-K:Ionian/Mixolydian
-I:R-5
 M:6/8
 R:Jig
 C:Trad. arr. John Tose
@@ -1760,8 +1460,6 @@ L:1/8
 
 X:151
 T:The Dancing Piper
-K:Ionian
-I:R-8
 M:6/8
 R:Jig
 C:Trad. arr. John Tose
@@ -1773,8 +1471,6 @@ L:1/8
 
 X:152
 T: Gadael y Tir - Leaving the Land
-K:Aeolian (L#7)
-I:L7-6
 M:2/4
 R:Lament
 C:Trad.
@@ -1785,8 +1481,6 @@ F2  FF | EF  GA       | B2  Bc | B>A GG | AB  cB | AG        F>F | GE ^D>F | E4 
 
 X:153
 T:Si Hei Lwli Mabi
-K:Ionian/Mixolydian
-I:R-5
 M:4/4
 R:Slow Air
 C:Trad.
@@ -1796,8 +1490,6 @@ D E F>F | A F E2 | D E F A | F/E/ D E2 | D E F>F | E D2 D    | E D F>E | D4 ||
 
 X:154
 T:Meillionen o Feirionydd - The Clover of Merioneth
-K:Aeolian
-I:L7-6
 M:4/4
 R:Processional
 C:Trad. arr. John Tose
@@ -1808,8 +1500,6 @@ E2 GF/E/ D/E/F/G/ A2 | G2 A/G/F/E/ D>E F/G/A/F/ | E2 GF/E/ D /E/F/G/ AB/A/ |1 GA
 
 X:155
 T:Neidod Twm Bach - Little Tom's Leap
-K:Aeolian, Mixolydian
-I:L7-7
 M:9/8
 R:Slip Jig
 C:Trad.
@@ -1819,8 +1509,6 @@ L:1/8
 
 X:156
 T:The Bend of the Little Horse Shoe
-K:Ionian
-I:L7-8
 M:3/4
 R:Waltz
 C:Trad.
@@ -1832,8 +1520,6 @@ EF | G2 GB AG | F2 F2 E2 | D2 DF EG | F4 DF    | G2 GB AG | F2 FG FE | D2 F2 E2 
 
 X:157
 T: Conset Arglwyddes Tre-ffael - Lady Tre-ffael's Conceit
-K:Aeolian (L#7, #6)
-I:L#7-7
 M:3/4
 R:Waltz
 C:Trad.
@@ -1844,8 +1530,6 @@ B/c/ | d2 d | d>c B | A2 A | A B ^c | d2 d | d =c B | A B ^c | d 2 d | B2 E | B>
 
 X:158
 T:Trafaelais I Gymru - I've Travelled Wales
-K:Mixolydian*
-I:R-8
 M:6/8
 R:Jig
 C:Trad.
@@ -1858,8 +1542,6 @@ B | B2 c d2 d | dcB d2 c | B2 c dcB | cBA B2 G | BcB  BAG | ABA AGF  | G3-  G2 G
 
 X:159
 T:Hela'r Geinach - Hunting the Hare
-K:Ionian/Mixolydian
-I:R-6
 M:2/4
 R:Processional
 C:Trad.
@@ -1871,8 +1553,6 @@ A | D>E DF | A>B AF    | DF AF | E2 EA |
 
 X:160
 T:Spanish Minuet
-K:Aeolian
-I:L7-6
 M:6/8
 R:Jig
 C:Trad.
@@ -1882,8 +1562,6 @@ L:1/8
 
 X:161
 T: Dwy Bleth o'i Gwallt Melyngoch
-K:Dorian (♮6)
-I:R-7
 M:6/8
 R:Jig
 C:Trad.
@@ -1892,8 +1570,6 @@ GF | E2 E G2 B | A F2 FGF | E2 E G2 A | | B3- B2 E | B2 B BAG | A B2 B2 c | d2 B
 
 X:162
 T:The Crystal Ground
-K:Mixolydian* (#7)
-I:R-8
 M:3/4
 R:Waltz
 C:Trad.
@@ -1905,8 +1581,6 @@ D2 | GA BA GF | E2 E2 E2 | AB cB AG  | G2 F2 D2 | GA BA GF | E2 F2 G2 | F>E D2 ^
 
 X:163
 T:Hela'r Sgwarnog - Hunt the Hare
-K:Ionian
-I:R-8
 M:2/4
 R:Processional
 C:Trad. arr. John Tose
@@ -1917,8 +1591,6 @@ L:1/8
 
 X:164
 T:Jeuenctid Cymru
-K:Aeolian (L#7)
-I:L#7-7
 M:3/4
 R:Waltz
 C:Trad.
@@ -1930,8 +1602,6 @@ E/F/ | G G A | B B c | d c B | B A A    | G G A | B B c | d c    B     | A2 B/A/
 
 X:165
 T: Da yw Swllt - A shilling is good (Variations)
-K:Aeolian/Dorian
-I:L7-5
 M:6/8
 R:Processional
 C:Trad. arr. John Tose
@@ -1944,8 +1614,6 @@ L:1/8
 
 X:166
 T:Y Gofid Glas - The Blue Devils
-K:Aeolian (L#7)
-I:L#7-6
 M:6/8
 R:Jig
 C:Trad.
@@ -1958,8 +1626,6 @@ G/A/ | B3   G2 G | A3   F2 F | GFE  E2 G | F2 B B3 |
 
 X:167
 T:Tom Edwards
-K:Mixolydian (#7)
-I:R-8
 M:6/8
 R:Jig
 C:Trad.
@@ -1969,8 +1635,6 @@ L:1/8
 
 X:168
 T:Y Clychau - The Bells
-K:Ionian/Mixolydian
-I:R-5
 M:5/4
 R: Air
 C:Trad.
@@ -1983,8 +1647,6 @@ B2 G2 E2   A2 F2 D2 | G2 B2 E2   F2 A2 D2 | A2 G2 F2   E2 D4 ||
 
 X:169
 T:Mwynen Cynwyd - The Gentle Lass of Cynwyd
-K:Mixolydian
-I:R-8
 M:6/8
 R:Jig
 C:Trad.
@@ -1994,8 +1656,6 @@ A | FDD  D2 D | DFA  AGF | BEE  E2 E | GAB  BAG | FDD D2 D | DFA  AGF | GFG EAG 
 
 X:170
 T:I Lawr a'r Ffrancwyr - Down with the French
-K:Mixolydian*
-I:R-8
 M:6/8
 R:Jig
 C:Trad.
@@ -2006,8 +1666,6 @@ L:1/8
 
 X:171
 T: Caleneg - The New Year's Gift
-K:Aeolian (L#7)
-I:L#7-6
 M:3/4
 R:Waltz
 C:Trad. arr. John Tose
@@ -2019,8 +1677,6 @@ L:1/8
 
 X:172
 T: Ffarwel i Dre' Caernarfon Lon
-K:Aeolian/Dorian
-I:L7-5
 M:3/4
 R:Slow Air
 C:Trad. arr. John Tose
@@ -2030,8 +1686,6 @@ E GB | A3 G/F/ ED | E3 E GB | B2 A/G/F/E/ DE | F3 E ED | B3 E/F/ GE | A3 F GA | 
 
 X:173
 T:Titrwm Tatrwm
-K:Aeolian/Dorian
-I:R-5
 M:4/4
 R:Slow Air
 C:Trad.
@@ -2040,8 +1694,6 @@ G2 G2 F2 F2 | E3 F E2 E2 | A2 A2 G2 G2 | G2 F4 F2 | G 2 G2 F3 F/F/ | E2 EF G2 A2
 
 X:174
 T: Cainc yr Aradwr - The Ploughman's Tune
-K:Mixolydian*
-I:R-8
 M:3/4
 R:Slow Air
 C:Trad.
@@ -2051,8 +1703,6 @@ d2 | cc B3 A | AG G F2 G | AB c3 B | AG FD d2 | cc B3 B | AG F D2 D | GA/B/ c2 B
 
 X:175
 T:Wyres Ned Pugh - Fair Ellen Pugh
-K:Mixolydian*
-I:R-8
 M:3/4
 R:Waltz
 C:Trad.
@@ -2064,8 +1714,6 @@ L:1/4
 
 X:176
 T:Hafoty Dafydd Owen
-K:Dorian (?)
-I:L7-7
 M:6/8
 R:Slow Air
 C:Trad. arr. John Tose
@@ -2076,8 +1724,6 @@ D | E>DE F/G/FE | FBB AGF | E3   F/G/FE | GFE FED | E3  F/G/FE | F2B Bcd | E>BB 
 
 X:177
 T:Pastwn Mawr
-K:Mixolydian*
-I:2-8
 M:6/8
 R:Jig
 C:Trad. arr. John Tose
@@ -2090,8 +1736,6 @@ B3 ABA | G3  G3  | E3  d2B | A2B G3  | E3   d2B | A2B G2A | B3  ABA | G3 G3 ||
 
 X:178
 T:Nos Galan fel y Cenir yn Bencader
-K:Mixolydian*
-I:R-8
 M:2/4
 R:Processional
 C:Trad.
@@ -2104,8 +1748,6 @@ A2 A/G/E/G/ | A/G/E/G/ A2 | A>B cB | A/G/E/G/ A2 | Bd AB | G2 GA/B/ | d>c B/c/B/
 
 X:179
 T:Y Twmpathe
-K:Aeolian
-I:L7-7
 M:2/4
 R:Processional
 C:Trad.
@@ -2116,8 +1758,6 @@ E/D/ E/G/ BB | c>B GE | G/D/G BB | AG FF | E>G F/E/D/F/ | E3 E | E/D/ E/G/ BB | 
 
 X:180
 T:Y Cambro Brython - The Welsh Briton
-K:Ionian
-I:R-8
 M:2/4
 R:Processional
 C:Trad.
@@ -2129,8 +1769,6 @@ Bd  cd | Ad cd | GB AF | GE E2 | F>E DF | GB AF | Gd AF | ED D2 ||
 
 X:181
 T:Pibddawns Jones - Jones' Hornpipe
-K:Ionian
-I:R-8
 M:2/4
 R:Hornpipe
 C:Trad.
@@ -2140,8 +1778,6 @@ FG | A2A2 AGFE | B2B2 BAGF | A2A2 AGFE | EDEF GFED | A2A2 AGFE | B2B2 BAGF | DAF
 
 X:182
 T: Dic y Cymro - Dick the Welshman
-K:Ionian
-I:R-8
 M:2/4
 R:Processional
 C:Trad.
@@ -2153,8 +1789,6 @@ d2 AF | d2 AF | FA F/E/D | E2 ED/E/ | FA GB | AF ED | FA E>F | ED D2  ||
 
 X:183
 T:Wyres Ned Puw - Ned Puw's Grand-daughter
-K:Ionian/Mixolydian, Aeolian
-I:R-6
 M:2/4
 R:Processional
 C:Trad. arr. John Tose
@@ -2164,8 +1798,6 @@ D2DE F2FG | AFED E2E2 | D2DE FEFG | AFGB A4 | FEFA GFGA | FEFG AFED | D2DE FEFG 
 
 X:184
 T:Nyth y Gwcw - The Cuckoo's Nest
-K:Dorian
-I:R-7
 M:2/4
 R:Processional
 C:Trad. arr. John Tose
@@ -2176,8 +1808,6 @@ F2 | GFGF E2E2 | B2B2 B2A2 | GFGF E2Bc | d2d2 d2F2 | GFGF E2E2 | B2B2 B2A2 | GFG
 
 X:185
 T:The Whirling of the Spinning Wheel
-K:Mixolydian*
-I:R-8
 M:3/4
 R:Waltz
 C:Trad.
@@ -2189,8 +1819,6 @@ L:1/4
 
 X:186
 T:Y Pren ar y Bryn
-K:Aeolian/Dorian
-I:R-5
 M:3/4, 2/4
 R:Slow Air
 C:Trad.
@@ -2200,8 +1828,6 @@ E>E | G4 F2 | E6 | G4 F2 | E2- E3 E | BB/B/ AA | | GG /G/ F/F/F || E/E/E B2 G>A 
 
 X:187
 T:Pwy Fydd Yma ymhen Can Mlynedd
-K:Mixolydian*
-I:R-8
 M:3/4, 2/4
 R:Hymn
 C:Trad.
@@ -2213,8 +1839,6 @@ G A | B3 G A B | A G3 G E | D3 G F G | A4 G A |
 
 X:188
 T: Darren Uchaf
-K:Ionian
-I:R-8
 M:4/4
 R:Slow Air
 C:Peter Stacey
@@ -2224,8 +1848,6 @@ d2 c d | A3 A | B2 d2 | c3 B/c/ | d2 c d | A3 A | G2 F2 |1 E4 :||2 D4 ||
 
 X:189
 T: Cwrw Da - Good Beer
-K:Aeolian & Ionian
-I:R-8
 M:9/8
 R:Slip Jig
 C:Trad.
@@ -2235,8 +1857,6 @@ GBd dBG dBG | GBd dBG cAF | GBd dBG dBG | FGA AFD D3 :||
 
 X:190
 T:Y Bwced Perffaith - The Perfect Bucket
-K:Ionian & Dorian
-I:R-8
 M:4/4
 R:Slow Air
 C:Peter Stacey
@@ -2249,8 +1869,6 @@ L:1/8
 
 X:191
 T: Beth yw'r Haf i Mi? / Dyffryn Clettwr
-K:Aeolian
-I:R-5
 M:2/4
 R:Ronde
 C:Trad. arr. Pibau Pencader
@@ -2262,8 +1880,6 @@ L:1/8
 
 X:192
 T: Dacw Mam yn Dwad
-K:Aeolian
-I:L7-5
 M:6/8
 R:Processional
 C:Trad. arr. Ceri Rhys Matthews
@@ -2278,8 +1894,6 @@ EDE FEF  | G2A B2 E | | F3 D2 D | E3- E3 ||
 
 X:193
 T: Ble Rwt Ti'n Mynd? / Hen Ladi Mowr Benfelen
-K:Aeolian
-I:R-6
 M:2/4
 R:Ronde
 C:Trad. arr. Ceri Rhys Matthews
@@ -2292,8 +1906,6 @@ A2 A2 | FA A2 | G2 FE | F2 GF | E2 ED | E2 EF | G2 A2 | B2-B2 | c2 Ac | B2 EF | 
 
 X:194
 T:Lady Caernarfon's Pig
-K:Aeolian
-I:L4-4
 M:4/4
 R:Processional
 C:Ollie Price
@@ -2303,8 +1915,6 @@ L:1/4
 
 X:195
 T: Bwrlwm
-K:Aeolian/Dorian
-I:R-5
 M:2/4
 R:Processional
 C: Dwy Droed Chwith
@@ -2314,8 +1924,6 @@ L:1/16
 
 X:196
 T:Trefforrest Waltz
-K:Mixolydian*
-I:R-8
 M:3/4
 R:Waltz
 C:Trad. arr. Dwy Droed Chwith
@@ -2327,8 +1935,6 @@ L:1/8
 
 X:197
 T: Grower Reel
-K:Ionian
-I:L7-8
 M:4/4
 R:Hornpipe
 C:Trad. arr. John Tose
@@ -2341,8 +1947,6 @@ A2 FG A2 A2 | GF EF GA B2 | A2 A2 GF GE | D2 C2 D4 ||
 
 X:198
 T:Nos Galan
-K:Ionian
-I:L7-8
 M:4/4
 R:Processional
 C:Trad.
@@ -2352,8 +1956,6 @@ E>F G E | F/E/ F/G/ A E | F/E/ F/G/ A d | c B A2  | A>G F E | D D/E/ F D | E/F/ 
 
 X:199
 T:Torth o Fara
-K:Mixolydian*
-I:R-8
 M:6/8
 R:Processional
 C:Trad.
@@ -2365,8 +1967,6 @@ G | B2 B B2 B | d2 d A3   | B2 B BAB  | dcB A2 D |
 
 X:200
 T: Carreg i'r Cleddau
-K:Aeloian
-I:L7-7
 M:4/4
 R:Hornpipe
 C:John Tose
@@ -2374,4 +1974,7 @@ L:1/8
    GF | E2 B2 BA GB | A2 F2 F2 BA | GE GE AF DF | EF GF E2 GF | E2 B2 BA GB | A2 F2 F2 BA | GE GE AF DF | E2 E2 E2 :|
 |: GA | BG EG B2 dB | AF DF A2 BA | G4    A4    | ED EF EF GA | BG EG B2 dB | AF DF A2 BA | GE GE AF DF | E2 E2 E2 :||
 
-% www.the-athenaion.com/tools_tose200
+%
+% the-athenaion.com/tools_tose200
+% https://github.com/0b11011110101011011011111011101111/tose-200
+%
