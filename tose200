@@ -5,8 +5,8 @@ R:Waltz
 C:Trad. 
 S: Davidson's Musical Miracles 1859
 L:1/8
-AB AB AG  | FE FG FE | DE DE FG | AB AB A2 | AB AB AG | FE FG FE | DE DE FE  | D6      :|| 
-FE DE FD  | E2 A2 A2 | AG FG AF | G2 B2 B2 | Bc dc BA | G2 E2 E2 | A^G AB cA | d2 d2 d2 | 
+AB AB AG  | FE FG FE | DE DE FG | AB AB A2 | AB AB AG | FE FG FE | DE DE FE  | D6      :||
+FE DE FD  | E2 A2 A2 | AG FG AF | G2 B2 B2 | Bc dc BA | G2 E2 E2 | A^G AB cA | d2 d2 d2 |
 AB AB A=G | FE FG FE | DE DE FG | AB AB A2 | AB AB AG | FE FG FE | DE DE FE  | D6       ||
 
 X:2
@@ -65,7 +65,7 @@ M:3/4
 R:Waltz
 C:Trad. arr. John Tose
 L:1/8
-F2 | B3 c d2 | F2 F2 FG | A2 A2 B2 | E4 DE | F2 FE DE |   F2 FE DE | F2 B2 c2 |1 B4    :|2   B6       || 
+F2 | B3 c d2 | F2 F2 FG | A2 A2 B2 | E4 DE | F2 FE DE |   F2 FE DE | F2 B2 c2 |1 B4    :|2   B6       ||
 d4 cd | B2 F2 D2 | d4 cd | B2 F2 D2 | D3   E FD | E4 E2 | D3 E FD | E2 F2 A2 | B2 B2 A2 | F4 DE | F2 FE DE | F2 FE DE | F2 B2 c2 |1 B6     :|2 B4     ||
 
 X:8
@@ -74,7 +74,7 @@ M:6/4
 R:Waltz
 C: Anonymous
 L:1/8
-D2 G2 F2 G6 | E2 A2 ^G2 A6 | F2 =G2 A2 B6 | G2 B2 ^c2 d6 | G2 B2 A2 G4 F2 | G2 E2 C2 D6 :|| 
+D2 G2 F2 G6 | E2 A2 ^G2 A6 | F2 =G2 A2 B6 | G2 B2 ^c2 d6 | G2 B2 A2 G4 F2 | G2 E2 C2 D6 :||
 =cB A2 G2 A6 | dc B2 A2 c6 | cB A2 G2 B2 A4 | G2 G2F2 G6 | cB AB G2 A6 | dc B2 ABc6 | cB A2 GA Bc A4 | GB AG F2 G6 ||
 
 X:9
@@ -93,7 +93,7 @@ M:3/4
 R:Waltz
 C:John Tose
 L:1/4
-G/2F/2 | E F G | F E ^D | E F G | F2 B | B G E | A F =D | D G F | E2 :|| 
+G/2F/2 | E F G | F E ^D | E F G | F2 B | B G E | A F =D | D G F | E2 :||
 G/2A/2 | B>c B | B A G  | A/2B/2 c/2d/2 c/2B/2 | A2 B/2A/2 | G B d | d c B | A>B G | F E D | B>c B | B A G | E F G | F2 B | B G E | A F D | D G F | E4 ||
 
 X:11
@@ -111,7 +111,7 @@ M:3/4
 R:Waltz
 C:John Tose
 L:1/4
-E/2F/2 G/2F/2 E | E/2F/2 G/2F/2 E | F G A | E2   F | G>F E | F E D | D3-     | D3    :|| 
+E/2F/2 G/2F/2 E | E/2F/2 G/2F/2 E | F G A | E2   F | G>F E | F E D | D3-     | D3    :||
 B>A G | G F E | F G A | E2   G | B>A G | G F E | D3     | D/2 E/2 F/2G /2 A | B>A G | G F E | F G A | E2   F | G>F E | F E D | D3-    | D3   ||
 
 X:13
@@ -147,7 +147,7 @@ M:4/2
 R:Hymn
 C:Trad. 
 L:1/2
-B | E E F F | G>F E E | A      A G      G  | F3 B | 
+B | E E F F | G>F E E | A      A G      G  | F3 B |
     E E F F | G>A B A | G      E F/2E/2 ^D | E3 B |
 	B G F A | G2  F E | ^D     E A      G  | F3 B |
 	E E F F | G>A B A | G/2F/2 E F/2E/2 ^D | E3   ||
@@ -508,7 +508,7 @@ R:Waltz
 C:Trad. arr. Ceri Rhys Matthews
 S: Ceri had this in D major from the Anglesey harpist Llio Rhydderch who learned it from Nancy Richards as a finger exercise
 L:1/8
-GF | E2 EF GA | B2 BA GB | A2 AG FA | GA GF ED | E2 EF GA | B2 BA GB | AG FA GF | E4      :|| 
+GF | E2 EF GA | B2 BA GB | A2 AG FA | GA GF ED | E2 EF GA | B2 BA GB | AG FA GF | E4      :||
 GA | BG EB GE | AF DA FD | BG EB GE | AF DA FD | EG FE D2 | EG FE D2 | E2 EF GA | B2 BA GB | AG FA GF | E4 :||
 
 X:59
@@ -534,7 +534,7 @@ M:2/4
 R:Pln
 C:Trad. arr. Ceri Rhys Matthews
 L:1/8
-EB B2 | EB B2 | AB cA | BA GF | EB B2 | EB B2 | AB cA | B4 :|| 
+EB B2 | EB B2 | AB cA | BA GF | EB B2 | EB B2 | AB cA | B4 :||
 A2 A2 | FA A2 | G2 FE | F2 GF | E2 ED | E2 EF | G2 A2 | B4  | c2 Ac | B2 EF | G2 F2 | E4 ||
 
 X:62
@@ -624,9 +624,9 @@ R:Processional
 C:Trad. arr. John Tose
 S: Davidsons Musical Miracles 1859
 L:1/16
-   GF | E2EF G2E2 | A2FG A2F2 | G2E2 E2G2 | B2Bc BAGF | 
+   GF | E2EF G2E2 | A2FG A2F2 | G2E2 E2G2 | B2Bc BAGF |
         E2EF G2E2 | A2AG F2A2 | G2E2 DEFD | E2G2 E2  :|
-|: EF | G2B2 B2AG | FGAB A2GF | E2G2 G2FE | DEFG F2GF | 
+|: EF | G2B2 B2AG | FGAB A2GF | E2G2 G2FE | DEFG F2GF |
         E2EF G2E2 | A2FG A2F2 | G2E2 E2G2 | B2Bc BAGF |
         E2EF G2E2 | A2AG F2A2 | G2E2 DEFD | E2G2 E2  :||
 
@@ -636,8 +636,8 @@ M:2/4
 R:Processional
 C:Trad.
 L:1/8
-D/2E/2 | FF EE | F F2  D/2E/2 | 
-         FF EE | F F2  D/2E/2 | 
+D/2E/2 | FF EE | F F2  D/2E/2 |
+         FF EE | F F2  D/2E/2 |
 		 FF EE | D D G G/2G/2 |
 		 FF EE | D D2         ||
 
@@ -665,7 +665,7 @@ M:2/4
 R:Processional
 C:Trad.
 L:1/8
-EF GA | EF FE | DE FE | FE D2 | EF GA | EF FE | DE FE | D2 D2 :|| 
+EF GA | EF FE | DE FE | FE D2 | EF GA | EF FE | DE FE | D2 D2 :||
 F2 G2 | A2 E2 | F2 G2 | A2 E2 | FG A2 | GA B2 | c2 B2 | AF DF  |
 EF GA | EF FE | DE FE | FE D2 | EF GA | EF FE | DE FE | D2 D2  ||
 
@@ -822,7 +822,7 @@ M:4/4
 R:Hymn
 C:Trad.
 L:1/4
-D | F2 F F | F A2 F | D E2 D | A B2 A/2B/2 | A F2 E | D3       :|| 
+D | F2 F F | F A2 F | D E2 D | A B2 A/2B/2 | A F2 E | D3       :||
 A | A2 G F | B2 B d | B A2 G | F A2 B      | B2 A F | E3 D/2E/2 |
     F2 F F | F A2 F | D E2 D | A B2 A/2B/2 | A F2 E | D3        ||
 
@@ -941,7 +941,7 @@ M:4/4
 R:Hymn
 C: D. Christmas Williams 1871-1926
 L:1/4
-G | F E D G | A>B A F | B G F    F | F3 G    | 
+G | F E D G | A>B A F | B G F    F | F3 G    |
     F E D G | A>B A B | A D E/F/ E | D3 G/A/ |
 	B B2  G/A/ | B B2 G/A/ | B    d    B A/G/ | A3 F/G/ |
 	A A B G    | c c2 A    | G/F/ G/c/ B A    | G3      ||
@@ -1091,10 +1091,10 @@ M:4/4
 R:Processional
 C:Trad. arr. Pibau Pencader
 L:1/8
-A2 | D2 FE D2 DE | FG FE D2 (3DEF | E2 ED EG FE | D2 D E D2 A2 | 
+A2 | D2 FE D2 DE | FG FE D2 (3DEF | E2 ED EG FE | D2 D E D2 A2 |
      D2 FE D2 DE | FG FE D2 A2    | A2 GF ED EF | D2 D>E DE FG |
 	 AF AF A3  F | GE GE G3 E     | FE DF FE DF | ED EF  E2 A2 |
-	 A4    G2 F2 | E G3  F2 E2    | D2 DC D2 DE | F4     A2 F2 | 
+	 A4    G2 F2 | E G3  F2 E2    | D2 DC D2 DE | F4     A2 F2 |
 	 E4    E4    | F4    A2 F2    | E4    E2 FE | D2 E2  F2 G2 | | A2 AB A2 G2 | FE D2 E2 A2 | D2 DC D2 ||
 
 X:121
@@ -1211,7 +1211,7 @@ M:2/4
 R:Processional
 C:Trad. arr. John Tose
 L:1/16
-EF | G2GA F2FG | E2EF GFGE | F2F2 E2E2 | ^D2B2  BAGF | G2GA G2F2 | E2EF G2A2 | B2Bc BAGF | E6     :|| 
+EF | G2GA F2FG | E2EF GFGE | F2F2 E2E2 | ^D2B2  BAGF | G2GA G2F2 | E2EF G2A2 | B2Bc BAGF | E6     :||
 GA | B2Bc A2AB | G2G2 GABc | d2B2 c2A2 | B2G2   GABc | B2Bc A2AB | G2G2 GABc | d2B2 c2A2 | B4 BAGF |
      G2GA F2FG | E2EF GFGE | F2F2 E2E2 | ^D2B2  BAGF | G2GA G2F2 | E2EF G2A2 | B2Bc BAGF | E6      ||
 
@@ -1264,9 +1264,9 @@ M:2/4
 R:Processional
 C:Trad.
 L:1/8
-DE | F>G FE | ED  DE | F>G FE | D2  EF | G2  F2 | E2 D2 | E2 F2 | FE DE | 
+DE | F>G FE | ED  DE | F>G FE | D2  EF | G2  F2 | E2 D2 | E2 F2 | FE DE |
      F>G FE | ED  DE | F>G FE | D2  EF | G2  F2 | E2 D2 | E2 FE | D2   :||
-FG | A>B AG | F>G AF | G>A GF | E>F GE | F>G FE | DE FG | A2 E2 | E2 DE | 
+FG | A>B AG | F>G AF | G>A GF | E>F GE | F>G FE | DE FG | A2 E2 | E2 DE |
      F>G FE | ED  DE | F>G FE | D2  EF | G2  F2 | E2 D2 | E2 FE | D2 D2 ||
 
 X:140
@@ -1275,10 +1275,10 @@ M:2/4
 R:Slow Air
 C:J. Glyn Davies: Cerddi Huw Puw 1923
 L:1/8
-GF EG | F>E (3DEF | E2    E2  | 
-GF EF | GB  AG/F/ | G2    G2  | 
-GF GA | Bc  BF-   | FF/G/ AB  | 
-GE EG | F>E (3DEF | E2    E2  | 
+GF EG | F>E (3DEF | E2    E2  |
+GF EF | GB  AG/F/ | G2    G2  |
+GF GA | Bc  BF-   | FF/G/ AB  |
+GE EG | F>E (3DEF | E2    E2  |
 GA B2 | B4        |
 cB A2 | A4        |
 BA GF | EG  (3FED | E2    E2- | E4 ||
@@ -1463,7 +1463,7 @@ C:Trad.
 L:1/8
 A | D>E DF | A>B AF    | DF AF | E2 EA |
     D>E DF | A>B AF    | DF AF | E2 E2 |
-	A>B AF | AB  AG/A/ | BA GF | E2 E2 | 
+	A>B AF | AB  AG/A/ | BA GF | E2 E2 |
 	DF  A2 | BA  F2    | DF A2 | BA F2 | DF AF | E2 D ||
 
 X:160
@@ -1532,7 +1532,7 @@ C:Trad.
 S: Davidsons Musical Miracles 1859
 L:1/8
 G/A/ | B2 B BcB  | A2 A ABA  | G2 G GFE  | F3-F2  :||
-G/A/ | B3   G2 G | A3   F2 F | GFE  E2 G | F2 B B3 | 
+G/A/ | B3   G2 G | A3   F2 F | GFE  E2 G | F2 B B3 |
        E2 E B2 B | E2 E F3   | G2 G D2 D | G2 G A3 |
 	   B2 B BcB  | AGF  F2 B | GFE  FE^D | E3-E2   ||
 
@@ -1625,7 +1625,7 @@ M:6/8
 R:Slow Air
 C:Trad. arr. John Tose
 L:1/8
-D | E>DE F/G/FE | FBB AGF | E3   F/G/FE | GFE FED | E3  F/G/FE | F2B Bcd | E>BB AGF |1 E>DE/F/ E2 :||2 E>DE/F/ E2F || 
+D | E>DE F/G/FE | FBB AGF | E3   F/G/FE | GFE FED | E3  F/G/FE | F2B Bcd | E>BB AGF |1 E>DE/F/ E2 :||2 E>DE/F/ E2F ||
     G>DG AFA    | BGB BAG | F>DF GDG    | AFA AGF | GDG AGA    | BAB Bcd | EBB  AGF |  E>DE/F/ E2  ||
 
 X:177
@@ -1656,7 +1656,7 @@ R:Processional
 C:Trad.
 L:1/8
 E/D/ E/G/ BB | c>B GE | G/D/G BB | AG FF | E>G F/E/D/F/ | E3 E | E/D/ E/G/ BB | c>B GE | G/D/G BB | AG FF | E>G F/E/D/F/ | E3 B |
-|: B>c dc | BA/G/ AA | B3 B | AG AB | G3 A | F3 G | F2 E2 | A2 EG/A/ | BA GF | E2 cB | GF GA | BA GF | E/F/G FD |1 E3 B :| |2 E4 ||
+|: B>c dc | BA/G/ AA | B3 B | AG AB | G3 A | F3 G | F2 E2 | A2 EG/A/ | BA GF | E2 cB | GF GA | BA GF | E/F/G FD |1 E3 B :||2 E4 ||
 
 X:180
 T:Y Cambro Brython - The Welsh Briton
@@ -1728,7 +1728,7 @@ M:3/4, 2/4
 R:Hymn
 C:Trad.
 L:1/8
-G A | B3 G A B | A G3 G E | D3 G F G | A4 G A | 
+G A | B3 G A B | A G3 G E | D3 G F G | A4 G A |
       B3 G A B | A G3 G E | D3 G     | A2 G F |
 	  G4 B c | d3 d c B | B A3 A B | c3 c B A | B4 B A | G3 A G F | E G3 G A | B3 G | A2 G F | G4 ||
 
@@ -1758,8 +1758,8 @@ C:Peter Stacey
 L:1/8
    d4    B4 | A4    F2 ED | d4    B4 | A4    F2 ED :|
 |: E2 E2 B4 | AB GA F2 ED | ED dc B4 | AB GA F2 ED :|
-|: A>G FG A3  F | GF GA B2 A2 | A>G FG A3  F |1 Gd Fd Gd A2 :||2 Gd Fd Gd A2- || 
-   AD  FB AG FD | AG FG2 E F2-| FD  FB AG FD |  AG AG FD FG  |   AG E4    FG  || 
+|: A>G FG A3  F | GF GA B2 A2 | A>G FG A3  F |1 Gd Fd Gd A2 :||2 Gd Fd Gd A2- ||
+   AD  FB AG FD | AG FG2 E F2-| FD  FB AG FD |  AG AG FD FG  |   AG E4    FG  ||
    E4- | E D FB AG FD | AG F G2 E F2- | F D FB
 
 X:191
